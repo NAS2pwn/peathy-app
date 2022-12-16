@@ -32,5 +32,3 @@ Connectivity : configuring network data
 - open_connection() bluetooth etc.
 - provide_wifi_data()
 
-## Front-end 
-
